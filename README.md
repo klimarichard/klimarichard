@@ -8,10 +8,7 @@ I am also a musician, composer and sound engineer. I play in a multi-instrumenta
 
 #### Links
 
-[<img src="https://github.com/klimarichard/project_euler/wiki/img/github.png" height="30"/>][github]          [<img src="https://github.com/klimarichard/project_euler/wiki/img/klimaduet.png" height="30"/>][klimaduet]            [<img src="https://github.com/klimarichard/project_euler/wiki/img/youtube.png" height="30"/>][youtube]
+[<img src="https://www.ms.mff.cuni.cz/~klimari/img/klimaduet.png" height="30"/>][klimaduet] [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="30"/>][youtube]
 
-
-
-[github]: https://github.com/klimarichard	" My GitHub page"
 [klimaduet]: http://klimaduet.cz/en/	"Klíma Duet homepage"
 [youtube]: https://www.youtube.com/channel/UCvuP-pZP0D4bt1RkyP42k2A	"YouTube of Klíma Duet"
