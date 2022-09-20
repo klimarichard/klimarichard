@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a junior programmer currently studying computer science in Prague. My main fields of study are mathematical linguistics and natural language processing. I am currently working on my bachelor thesis that concerns comma completion into Czech sentences.
+I am a junior programmer currently working as a database administrator in Prague. I am and enthusiast for stats of all kind, but mainly the sport ones. I created a database of all player and goalie stats of the top men's Czech floorball league from its start in 1994 upto today which I now manage to stay up to date.
 
 I am also a musician, composer and sound engineer. I play in a multi-instrumental duo with my dad, feel free to check out our web and YouTube channel.
 
